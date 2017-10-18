@@ -1,0 +1,19 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "chrome-launcher": "^0.8.1",
+    "chrome-remote-interface": "^0.25.2",
+    "html-pdf-chrome": "^0.3.0",
+    "simple-headless-chrome": "^4.3.10"
+  }
+}
